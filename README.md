@@ -1,6 +1,6 @@
-### Hola! 😀 soy Valentín 👋🏽 
+### Hola! 😀 soy Valentín ## 👋🏽 
 
-## Soy un estudiante en la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** en la **Universidad Nacional del Centro de la Provincia de Buenos Aires** _UNICEN_ con todas las cursadas terminadas 👨🏽‍🎓 
+## Soy un estudiante en la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** en la **Universidad Nacional del Centro de la Provincia de Buenos Aires** _UNICEN_ con todas las cursadas terminadas ##👨🏽‍🎓 
 
 - 🔎 Actualmente me encuentro abierto a propuestas de trabajo 
 - 💪🏽 Hago calistenia, soy apasionado del deporte
@@ -14,9 +14,9 @@
 
 <br />
 
-### Conocimientos y experiencia en:
+### Herramientas, conocimientos y experiencia en:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<p>Visual Studio</p> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
