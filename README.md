@@ -33,7 +33,7 @@
 #### Back-End 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <p> Node.js <p>
-<img align="left" alt="PHP" width="26px" src="/images/java.png" />
+<img align="left" alt="PHP" width="26px" src="/images/php.png" />
 <p> PHP<p>
 <img align="left" alt="Java" width="26px" src="/images/java.png" />
 <p> Java<p>
@@ -49,7 +49,7 @@
 #### Frameworks 
 <img align="left" alt="Boostrap" width="26px" src="/images/bootstrap.png" />
 <p> Bootstrap</p>
-<img align="left" alt="Spring Boot" width="26px" src="/images/spring.png" />
+<img align="left" alt="Spring Boot" width="26px" src="https://images.app.goo.gl/BFaDE2KDeqxPkSAm9" />
 <p> Spring Boot</p>
 
 #### Otros 
