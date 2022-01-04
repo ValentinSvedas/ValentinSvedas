@@ -49,7 +49,7 @@
 #### Frameworks 
 <img align="left" alt="Boostrap" width="26px" src="/images/bootstrap.png" />
 <p> Bootstrap</p>
-<img align="left" alt="Spring Boot" width="26px" src="https://images.app.goo.gl/BFaDE2KDeqxPkSAm9" />
+<img align="left" alt="Spring Boot" width="26px" src="/images/spring.png" />
 <p> Spring Boot</p>
 
 #### Otros 
