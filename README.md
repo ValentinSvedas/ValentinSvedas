@@ -68,7 +68,7 @@
 <p align="left">GitHub</p>
 <img align="left" alt="Metodologías" width="26px" src="/images/metodologiasAgiles.png" />
 <p align="left">Metodologías ágiles</p>
-<img align="left" alt="Docker" width="26px" src="https://images.app.goo.gl/jJCwKUXytZVmqUvy7" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <p> Docker </p>
 
 
