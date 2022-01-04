@@ -20,8 +20,9 @@
 <p align="left">Visual Studio Code</p>
 <img align="left" alt="IntelliJ" width="26px" src="/images/intellij.png" /> 
 <p align="left">IntelliJ</p>
+<br />
 
-#### Front-End 
+#### Front-End:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <p align="left">HTML5</p>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,35 +30,39 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <p align="left">JavaScript</p>
 
+<br />
 
-#### Back-End 
+#### Back-End: 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <p> Node.js <p>
 <img align="left" alt="PHP" width="26px" src="/images/php.png" />
 <p> PHP<p>
 <img align="left" alt="Java" width="26px" src="/images/java.png" />
 <p> Java<p>
+<br />
 
-#### Test
+#### Test:
 <img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />
 <p> Selenium </p>
 <img align="left" alt="JUnit" width="26px" src="https://camo.githubusercontent.com/5dee5a2bee00f7a55936519b25e797a846f23b9c0d679e1b25d66d2c9ecdd0e7/687474703a2f2f7777772e73777465737461636164656d792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f31312f4a756e69745f4c6f676f2e706e67" />
 <p> JUnit </p>
+<br />
 
-#### Bases de Datos 
+#### Bases de Datos:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <p align="left">SQL</p>
 <img align="left" alt="MySQL" width="26px" src="/images/mysql.png" />
 <p align="left">MySQL</p>
 <img align="left" alt="MySQL" width="26px" src="/images/postgresql.png" />
 <p>PostgreSQL </p>
-
+<br />
 
 #### Frameworks 
 <img align="left" alt="Boostrap" width="26px" src="/images/bootstrap.png" />
 <p> Bootstrap</p>
 <img align="left" alt="Spring Boot" width="26px" src="/images/spring.png" />
 <p> Spring Boot</p>
+<br />
 
 #### Otros 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
