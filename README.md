@@ -38,12 +38,21 @@
 <img align="left" alt="Java" width="26px" src="/images/java.png" />
 <p> Java<p>
 
+#### Test
+<img align="left" alt="Selenium" width="26px" src="https://images.app.goo.gl/xP7n9TT98D15azCN6" />
+<p> Selenium </p>
+<img align="left" alt="JUnit" width="26px" src="https://images.app.goo.gl/bHKL6etMmvb4j1nk6" />
+<p> JUnit </p>
+<img align="left" alt="Mokito" width="26px" src="https://images.app.goo.gl/s9c9ZsAhSTf4Fbo88" />
+<p> Mockito </p>
 
 #### Bases de Datos 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <p align="left">SQL</p>
 <img align="left" alt="MySQL" width="26px" src="/images/mysql.png" />
 <p align="left">MySQL</p>
+<img align="left" alt="MySQL" width="26px" src="/images/postgresql.png" />
+<p>PostgreSQL </p>
 
 
 #### Frameworks 
@@ -59,6 +68,8 @@
 <p align="left">GitHub</p>
 <img align="left" alt="Metodologías" width="26px" src="/images/metodologiasAgiles.png" />
 <p align="left">Metodologías ágiles</p>
+<img align="left" alt="Docker" width="26px" src="https://images.app.goo.gl/jJCwKUXytZVmqUvy7" />
+<p> Docker </p>
 
 
 <br />
