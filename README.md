@@ -39,11 +39,11 @@
 <p> Java<p>
 
 #### Test
-<img align="left" alt="Selenium" width="26px" src="https://images.app.goo.gl/xP7n9TT98D15azCN6" />
+<img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />
 <p> Selenium </p>
-<img align="left" alt="JUnit" width="26px" src="https://images.app.goo.gl/bHKL6etMmvb4j1nk6" />
+<img align="left" alt="JUnit" width="26px" src="https://camo.githubusercontent.com/5dee5a2bee00f7a55936519b25e797a846f23b9c0d679e1b25d66d2c9ecdd0e7/687474703a2f2f7777772e73777465737461636164656d792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f31312f4a756e69745f4c6f676f2e706e67" />
 <p> JUnit </p>
-<img align="left" alt="Mokito" width="26px" src="https://images.app.goo.gl/s9c9ZsAhSTf4Fbo88" />
+<img align="left" alt="Mokito" width="26px" src="https://i.blogs.es/5f5568/mockito/1366_2000.jpg" />
 <p> Mockito </p>
 
 #### Bases de Datos 
