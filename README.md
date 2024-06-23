@@ -6,7 +6,6 @@
 [![GitHub ValentinSvedas](https://img.shields.io/github/followers/ValentinSvedas?label=follow&style=social)](https://github.com/ValentinSvedas)
 [![Gmail Badge](https://img.shields.io/badge/-valentinsvedas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valentinsvedas@gmail.com)](mailto:valentinsvedas@gmail.com)
 
-<br />
 I'm from Argentina Buenos Aires Tandil 🇦🇷, studied at UNICEN and completed a degree in **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** in 2022, acquiring a solid foundation in programming.
 
 <p>Full-Stack developer at <a href="https://lamansys.com/es/">Lamansys</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
