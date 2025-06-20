@@ -1,6 +1,6 @@
 ### Hey! i'm Valentin <img src="https://media.tenor.com/ba7hj5Y_oCIAAAAi/hello.gif" width="30"></h2>
 
-## +2 years of experience developing custom solutions, enjoying the daily challenges of programming 
+## +3 years of experience developing custom solutions, enjoying the daily challenges of programming 
 [![Instagram: ValentinSvedas](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/valensvedas/)
 [![Linkedin: ValentinSvedas](https://img.shields.io/badge/-ValentinSvedas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ValentinSvedas/)](https://www.linkedin.com/in/valentin-svedas//)
 [![GitHub ValentinSvedas](https://img.shields.io/github/followers/ValentinSvedas?label=follow&style=social)](https://github.com/ValentinSvedas)
